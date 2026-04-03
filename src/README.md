@@ -18,6 +18,10 @@ npm run coverage # run with coverage report
 
 ## Coverage
 
+## Live API
+
+https://task-api-sh76.onrender.com/
+
 ## API Endpoints
 
 | Method | Path | Description |
