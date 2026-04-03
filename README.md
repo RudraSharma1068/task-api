@@ -38,4 +38,4 @@ npm run coverage # run with coverage report
 - **Substring status matching** — `getByStatus` used `.includes()` instead of `===`
 - **Priority reset on complete** — `completeTask` was hardcoding `priority: 'medium'`
 
-See `BUGS.md` for full details.
+See `src/BUGS.md` for full details.
